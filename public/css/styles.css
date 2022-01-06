@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #EAC926;
+    font-size: 12px;
+}
+
+.titulares{
+    font-size: 24px;
+}
+.precios {
+    font-size: 18px;
+}
+.discounts-descriptions{
+    font-size: 16px;
+}
+
+#products {
+    width: fit-content;
+    height: fit-content;
+}
+#pago section {
+    background-color: white;
+} 
+
+#center p{
+ text-align: center;
+}
